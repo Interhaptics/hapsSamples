@@ -1,0 +1,330 @@
+{
+    "m_HDFlag": 0,
+    "m_description": "",
+    "m_gain": 1.0,
+    "m_length_unit": 7,
+    "m_stiffness": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [],
+        "m_signalEvaluationMethod": 3
+    },
+    "m_texture": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [],
+        "m_signalEvaluationMethod": 3
+    },
+    "m_time_unit": 0,
+    "m_version": "5",
+    "m_vibration": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [
+            {
+                "m_gain": 1.0,
+                "m_mute": 0,
+                "m_notes": [
+                    {
+                        "m_gain": 1.0,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.05245600590888843
+                    },
+                    {
+                        "m_gain": 0.9189189189189189,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.10377016746411484
+                    },
+                    {
+                        "m_gain": 0.9484029484029484,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.15791112440191388
+                    },
+                    {
+                        "m_gain": 0.9361179361179361,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.21566147846889952
+                    },
+                    {
+                        "m_gain": 0.9557739557739557,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.2607789425837321
+                    },
+                    {
+                        "m_gain": 0.9115479115479116,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.31582224880382775
+                    },
+                    {
+                        "m_gain": 0.8943488943488943,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.40966657416267943
+                    },
+                    {
+                        "m_gain": 0.8894348894348895,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.46831927751196173
+                    },
+                    {
+                        "m_gain": 1.0,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.5229235337250724
+                    },
+                    {
+                        "m_gain": 0.855036855036855,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.6135975119617224
+                    },
+                    {
+                        "m_gain": 0.9115479115479116,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.6902972009569378
+                    },
+                    {
+                        "m_gain": 0.9189189189189189,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.7669968899521531
+                    },
+                    {
+                        "m_gain": 0.914004914004914,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.8445989282296651
+                    },
+                    {
+                        "m_gain": 0.9877874300478723,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.8715739635354841
+                    },
+                    {
+                        "m_gain": 0.7371007371007371,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.9050563301435406
+                    },
+                    {
+                        "m_gain": 1.0,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.9491700031033349
+                    },
+                    {
+                        "m_gain": 0.9828009828009828,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 0.9916529713193116
+                    },
+                    {
+                        "m_gain": 0.9754299754299754,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 1.0779432160611855
+                    },
+                    {
+                        "m_gain": 0.9901719901719902,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 1.1573850286806884
+                    },
+                    {
+                        "m_gain": 0.8525798525798526,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 1.2176512313575527
+                    },
+                    {
+                        "m_gain": 0.9361179361179361,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 1.3025717896749522
+                    },
+                    {
+                        "m_gain": 0.9582309582309583,
+                        "m_hapticEffect": {
+                            "m_type": 0
+                        },
+                        "m_length": 0.022,
+                        "m_priority": 0,
+                        "m_startingPoint": 1.3655773652007648
+                    }
+                ]
+            },
+            {
+                "m_gain": 1.0,
+                "m_mute": 0,
+                "m_notes": [
+                    {
+                        "m_gain": 1.0,
+                        "m_hapticEffect": {
+                            "m_amplitudeModulation": {
+                                "m_extrapolationStrategy": 0,
+                                "m_keyframes": [
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.0,
+                                        "m_value": 0.0
+                                    },
+                                    {
+                                        "m_time": 0.027758912991233394,
+                                        "m_value": 0.9996860832241666
+                                    },
+                                    {
+                                        "m_time": 1.3981171489879025,
+                                        "m_value": 1.0
+                                    },
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 1.432692,
+                                        "m_value": 0.0
+                                    }
+                                ]
+                            },
+                            "m_frequencyModulation": {
+                                "m_extrapolationStrategy": 0,
+                                "m_keyframes": [
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.0,
+                                        "m_value": 42.950221130221124
+                                    },
+                                    {
+                                        "m_time": 0.09734079617224882,
+                                        "m_value": 43.16953316953317
+                                    },
+                                    {
+                                        "m_time": 0.2824254086124402,
+                                        "m_value": 47.34643734643735
+                                    },
+                                    {
+                                        "m_time": 0.44283207272727276,
+                                        "m_value": 43.562653562653566
+                                    },
+                                    {
+                                        "m_time": 0.6539656306220096,
+                                        "m_value": 47.14987714987715
+                                    },
+                                    {
+                                        "m_time": 0.7444514411483254,
+                                        "m_value": 43.31695331695332
+                                    },
+                                    {
+                                        "m_time": 0.891148133971292,
+                                        "m_value": 46.65847665847666
+                                    },
+                                    {
+                                        "m_time": 1.0967977033492824,
+                                        "m_value": 44.84029484029484
+                                    },
+                                    {
+                                        "m_time": 1.1502665913875598,
+                                        "m_value": 46.65847665847666
+                                    },
+                                    {
+                                        "m_time": 1.2297844248803829,
+                                        "m_value": 43.66093366093366
+                                    },
+                                    {
+                                        "m_time": 1.359889087708098,
+                                        "m_value": 48.67321867321867
+                                    },
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 1.432692,
+                                        "m_value": 43.09572481572481
+                                    }
+                                ]
+                            }
+                        },
+                        "m_length": 1.432692,
+                        "m_priority": 1,
+                        "m_startingPoint": 0.0
+                    }
+                ]
+            }
+        ],
+        "m_signalEvaluationMethod": 3
+    }
+}
