@@ -1,0 +1,107 @@
+{
+  "timestamp": 0,
+  "duration": 4000,
+  "keyframes": [
+    {
+      "color": 8011264,
+      "duration": 2000,
+      "id": 1,
+      "timestamp": 0,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": -0.9694206990753542,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 2,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "color": 16776960,
+      "duration": 2000,
+      "id": 2,
+      "timestamp": 2000,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": 0.4706673632052374,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 2,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "color": 0,
+      "duration": 33,
+      "id": 3,
+      "timestamp": 4000,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": 1.1366541341080536,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    }
+  ],
+  "geometries": [
+    {
+      "id": 1,
+      "type": 1
+    }
+  ],
+  "keygeomap": [
+    {
+      "geometry_id": 1,
+      "keyframe_id": 1
+    },
+    {
+      "geometry_id": 1,
+      "keyframe_id": 2
+    },
+    {
+      "geometry_id": 1,
+      "keyframe_id": 3
+    }
+  ],
+  "transitions": [
+    {
+      "from": 1,
+      "to": 2,
+      "type": 1
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "type": 1
+    }
+  ]
+}

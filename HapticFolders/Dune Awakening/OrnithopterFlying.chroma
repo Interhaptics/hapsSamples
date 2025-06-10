@@ -1,0 +1,138 @@
+{
+  "timestamp": 0,
+  "duration": 5000,
+  "keyframes": [
+    {
+      "color": 36095,
+      "duration": 5000,
+      "id": 1,
+      "timestamp": 0,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    },
+    {
+      "color": 16776960,
+      "duration": 33,
+      "id": 2,
+      "timestamp": 5000,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": -0.5,
+          "z": -0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 2,
+          "y": 7,
+          "z": 7
+        }
+      }
+    },
+    {
+      "id": 3,
+      "timestamp": 1000,
+      "duration": 5000,
+      "color": 0,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    },
+    {
+      "id": 4,
+      "timestamp": 6000,
+      "duration": 33,
+      "color": 0,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": -0.5,
+          "z": -0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 2,
+          "y": 7,
+          "z": 7
+        }
+      }
+    }
+  ],
+  "geometries": [
+    {
+      "id": 1,
+      "type": 1
+    },
+    {
+      "id": 2,
+      "type": 1
+    }
+  ],
+  "keygeomap": [
+    {
+      "geometry_id": 1,
+      "keyframe_id": 1
+    },
+    {
+      "geometry_id": 1,
+      "keyframe_id": 2
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 3
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 4
+    }
+  ],
+  "transitions": [
+    {
+      "from": 1,
+      "to": 2,
+      "type": 1
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "type": 1
+    }
+  ]
+}

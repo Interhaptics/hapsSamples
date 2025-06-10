@@ -1,0 +1,141 @@
+{
+    "m_HDFlag": 0,
+    "m_description": "",
+    "m_gain": 1.0,
+    "m_length_unit": 7,
+    "m_stiffness": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [],
+        "m_signalEvaluationMethod": 3
+    },
+    "m_texture": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [],
+        "m_signalEvaluationMethod": 3
+    },
+    "m_time_unit": 0,
+    "m_version": "5",
+    "m_vibration": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [
+            {
+                "m_gain": 1.0,
+                "m_mute": 0,
+                "m_notes": []
+            },
+            {
+                "m_gain": 1.0,
+                "m_mute": 0,
+                "m_notes": [
+                    {
+                        "m_gain": 1.0,
+                        "m_hapticEffect": {
+                            "m_amplitudeModulation": {
+                                "m_extrapolationStrategy": 0,
+                                "m_keyframes": [
+                                    {
+                                        "m_time": 0.0,
+                                        "m_value": 0.0
+                                    },
+                                    {
+                                        "m_time": 0.016851601198402132,
+                                        "m_value": 0.13111545988258322
+                                    },
+                                    {
+                                        "m_time": 0.044937603195739015,
+                                        "m_value": 0.20547945205479456
+                                    },
+                                    {
+                                        "m_time": 0.07339808521970705,
+                                        "m_value": 0.2700587084148728
+                                    },
+                                    {
+                                        "m_time": 0.11871016844207723,
+                                        "m_value": 0.3679060665362035
+                                    },
+                                    {
+                                        "m_time": 0.15915401131824233,
+                                        "m_value": 0.43248532289628183
+                                    },
+                                    {
+                                        "m_time": 0.22768385619174433,
+                                        "m_value": 0.5577299412915852
+                                    },
+                                    {
+                                        "m_time": 0.26910188722737755,
+                                        "m_value": 0.570248389618594
+                                    },
+                                    {
+                                        "m_time": 0.3153121824234354,
+                                        "m_value": 0.5636007827788649
+                                    },
+                                    {
+                                        "m_time": 0.3553815452729694,
+                                        "m_value": 0.5753424657534247
+                                    },
+                                    {
+                                        "m_time": 0.3995701884154461,
+                                        "m_value": 0.5146771037181996
+                                    },
+                                    {
+                                        "m_time": 0.4527463521970706,
+                                        "m_value": 0.40900195694716246
+                                    },
+                                    {
+                                        "m_time": 0.4901943548601864,
+                                        "m_value": 0.3346379647749511
+                                    },
+                                    {
+                                        "m_time": 0.5227741171770972,
+                                        "m_value": 0.2622309197651663
+                                    },
+                                    {
+                                        "m_time": 0.5433705186418109,
+                                        "m_value": 0.18786692759295498
+                                    },
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.562469,
+                                        "m_value": 0.0
+                                    }
+                                ]
+                            },
+                            "m_frequencyModulation": {
+                                "m_extrapolationStrategy": 0,
+                                "m_keyframes": [
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.0,
+                                        "m_value": 50.0
+                                    },
+                                    {
+                                        "m_time": 0.3018309014647137,
+                                        "m_value": 40.0
+                                    },
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.562469,
+                                        "m_value": 50.0
+                                    }
+                                ]
+                            }
+                        },
+                        "m_length": 0.562469,
+                        "m_priority": 1,
+                        "m_startingPoint": 0.0
+                    }
+                ]
+            }
+        ],
+        "m_signalEvaluationMethod": 3
+    }
+}

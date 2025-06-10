@@ -1,0 +1,202 @@
+{
+  "timestamp": 0,
+  "duration": 3000,
+  "keyframes": [
+    {
+      "color": 16776960,
+      "duration": 2000,
+      "id": 1,
+      "timestamp": 0,
+      "transform": {
+        "position": {
+          "x": 2,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "color": 16776960,
+      "duration": 1000,
+      "id": 2,
+      "timestamp": 2000,
+      "transform": {
+        "position": {
+          "x": 1,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "color": 16776960,
+      "duration": 33,
+      "id": 3,
+      "timestamp": 3000,
+      "transform": {
+        "position": {
+          "x": 1,
+          "y": 0.5,
+          "z": 2
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "id": 4,
+      "timestamp": 0,
+      "duration": 2000,
+      "color": 16711680,
+      "transform": {
+        "position": {
+          "x": -1,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "id": 5,
+      "timestamp": 2000,
+      "duration": 1000,
+      "color": 16711680,
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "id": 6,
+      "timestamp": 3000,
+      "duration": 33,
+      "color": 16711680,
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 0.5,
+          "z": 2
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        }
+      }
+    }
+  ],
+  "geometries": [
+    {
+      "id": 1,
+      "type": 2
+    },
+    {
+      "id": 2,
+      "type": 2
+    }
+  ],
+  "keygeomap": [
+    {
+      "geometry_id": 1,
+      "keyframe_id": 1
+    },
+    {
+      "geometry_id": 1,
+      "keyframe_id": 2
+    },
+    {
+      "geometry_id": 1,
+      "keyframe_id": 3
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 4
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 5
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 6
+    }
+  ],
+  "transitions": [
+    {
+      "from": 1,
+      "to": 2,
+      "type": 1
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "type": 1
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "type": 1
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "type": 1
+    }
+  ]
+}

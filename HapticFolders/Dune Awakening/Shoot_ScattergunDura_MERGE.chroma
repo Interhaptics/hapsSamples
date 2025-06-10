@@ -1,0 +1,390 @@
+{
+  "timestamp": 0,
+  "duration": 1980,
+  "keyframes": [
+    {
+      "color": 36095,
+      "duration": 1980,
+      "id": 1,
+      "timestamp": 0,
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 0.5,
+          "z": 1
+        },
+        "rotation": {
+          "x": 25,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.2,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "color": 36095,
+      "duration": 33,
+      "id": 2,
+      "timestamp": 1980,
+      "transform": {
+        "position": {
+          "x": 0.25,
+          "y": 1,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "color": 17919,
+      "duration": 1980,
+      "id": 3,
+      "timestamp": 0,
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 0.5,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.2,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "color": 17919,
+      "duration": 33,
+      "id": 4,
+      "timestamp": 1980,
+      "transform": {
+        "position": {
+          "x": 0.25,
+          "y": 0.5,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "color": 55295,
+      "duration": 1980,
+      "id": 5,
+      "timestamp": 0,
+      "transform": {
+        "position": {
+          "x": 0,
+          "y": 0.5,
+          "z": 1
+        },
+        "rotation": {
+          "x": -25,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "color": 55295,
+      "duration": 198,
+      "id": 6,
+      "timestamp": 1980,
+      "transform": {
+        "position": {
+          "x": 0.25,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "id": 7,
+      "timestamp": 0,
+      "duration": 1980,
+      "color": 36095,
+      "transform": {
+        "position": {
+          "x": 1,
+          "y": 0.5,
+          "z": 1
+        },
+        "rotation": {
+          "x": 25,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.2,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "id": 8,
+      "timestamp": 1980,
+      "duration": 33,
+      "color": 36095,
+      "transform": {
+        "position": {
+          "x": 0.75,
+          "y": 1,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "id": 9,
+      "timestamp": 0,
+      "duration": 1980,
+      "color": 17919,
+      "transform": {
+        "position": {
+          "x": 1,
+          "y": 0.5,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.2,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "id": 10,
+      "timestamp": 1980,
+      "duration": 33,
+      "color": 17919,
+      "transform": {
+        "position": {
+          "x": 0.75,
+          "y": 0.5,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "id": 11,
+      "timestamp": 0,
+      "duration": 1980,
+      "color": 55295,
+      "transform": {
+        "position": {
+          "x": 1,
+          "y": 0.5,
+          "z": 1
+        },
+        "rotation": {
+          "x": -25,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    },
+    {
+      "id": 12,
+      "timestamp": 1980,
+      "duration": 198,
+      "color": 55295,
+      "transform": {
+        "position": {
+          "x": 0.75,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 0.5,
+          "y": 0.2,
+          "z": 0.2
+        }
+      }
+    }
+  ],
+  "geometries": [
+    {
+      "id": 1,
+      "type": 2
+    },
+    {
+      "id": 2,
+      "type": 2
+    },
+    {
+      "id": 3,
+      "type": 2
+    },
+    {
+      "id": 4,
+      "type": 2
+    },
+    {
+      "id": 5,
+      "type": 2
+    },
+    {
+      "id": 6,
+      "type": 2
+    }
+  ],
+  "keygeomap": [
+    {
+      "geometry_id": 1,
+      "keyframe_id": 1
+    },
+    {
+      "geometry_id": 1,
+      "keyframe_id": 2
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 3
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 4
+    },
+    {
+      "geometry_id": 3,
+      "keyframe_id": 5
+    },
+    {
+      "geometry_id": 3,
+      "keyframe_id": 6
+    },
+    {
+      "geometry_id": 4,
+      "keyframe_id": 7
+    },
+    {
+      "geometry_id": 4,
+      "keyframe_id": 8
+    },
+    {
+      "geometry_id": 5,
+      "keyframe_id": 9
+    },
+    {
+      "geometry_id": 5,
+      "keyframe_id": 10
+    },
+    {
+      "geometry_id": 6,
+      "keyframe_id": 11
+    },
+    {
+      "geometry_id": 6,
+      "keyframe_id": 12
+    }
+  ],
+  "transitions": [
+    {
+      "from": 1,
+      "to": 2,
+      "type": 1
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "type": 1
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "type": 1
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "type": 1
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "type": 1
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "type": 1
+    }
+  ]
+}

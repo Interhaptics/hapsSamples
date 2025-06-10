@@ -1,0 +1,264 @@
+{
+  "timestamp": 0,
+  "duration": 5000,
+  "keyframes": [
+    {
+      "color": 36095,
+      "duration": 5000,
+      "id": 1,
+      "timestamp": 0,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": 0.25,
+          "z": -1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 0.5,
+          "z": 0.5
+        }
+      }
+    },
+    {
+      "id": 2,
+      "timestamp": 0,
+      "duration": 5000,
+      "color": 16743168,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": 0.75,
+          "z": 2
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 0.5,
+          "z": 0.5
+        }
+      }
+    },
+    {
+      "color": 16743168,
+      "duration": 33,
+      "id": 3,
+      "timestamp": 5000,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": 0.75,
+          "z": -1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 0.5,
+          "z": 0.5
+        }
+      }
+    },
+    {
+      "color": 36095,
+      "duration": 33,
+      "id": 4,
+      "timestamp": 5000,
+      "transform": {
+        "position": {
+          "x": 0.5,
+          "y": 0.25,
+          "z": 2
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 0.5,
+          "z": 0.5
+        }
+      }
+    },
+    {
+      "color": 16777215,
+      "duration": 5000,
+      "id": 5,
+      "timestamp": 0,
+      "transform": {
+        "position": {
+          "x": 1.5,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 45,
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 2,
+          "y": 0.1,
+          "z": 0.5
+        }
+      }
+    },
+    {
+      "color": 16777215,
+      "duration": 33,
+      "id": 6,
+      "timestamp": 5000,
+      "transform": {
+        "position": {
+          "x": 1.5,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 45,
+          "y": -900,
+          "z": 0
+        },
+        "scale": {
+          "x": 2,
+          "y": 1,
+          "z": 1
+        }
+      }
+    },
+    {
+      "id": 7,
+      "timestamp": 0,
+      "duration": 5000,
+      "color": 16777215,
+      "transform": {
+        "position": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 45,
+          "y": 90,
+          "z": 0
+        },
+        "scale": {
+          "x": 2,
+          "y": 0.1,
+          "z": 0.5
+        }
+      }
+    },
+    {
+      "id": 8,
+      "timestamp": 5000,
+      "duration": 33,
+      "color": 16777215,
+      "transform": {
+        "position": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": 0.5
+        },
+        "rotation": {
+          "x": 45,
+          "y": 990,
+          "z": 0
+        },
+        "scale": {
+          "x": 2,
+          "y": 1,
+          "z": 1
+        }
+      }
+    }
+  ],
+  "geometries": [
+    {
+      "id": 1,
+      "type": 2
+    },
+    {
+      "id": 2,
+      "type": 2
+    },
+    {
+      "id": 3,
+      "type": 2
+    },
+    {
+      "id": 4,
+      "type": 2
+    }
+  ],
+  "keygeomap": [
+    {
+      "geometry_id": 1,
+      "keyframe_id": 1
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 2
+    },
+    {
+      "geometry_id": 2,
+      "keyframe_id": 3
+    },
+    {
+      "geometry_id": 1,
+      "keyframe_id": 4
+    },
+    {
+      "geometry_id": 3,
+      "keyframe_id": 5
+    },
+    {
+      "geometry_id": 3,
+      "keyframe_id": 6
+    },
+    {
+      "geometry_id": 4,
+      "keyframe_id": 7
+    },
+    {
+      "geometry_id": 4,
+      "keyframe_id": 8
+    }
+  ],
+  "transitions": [
+    {
+      "from": 2,
+      "to": 3,
+      "type": 1
+    },
+    {
+      "from": 1,
+      "to": 4,
+      "type": 1
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "type": 1
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "type": 1
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+    "m_HDFlag": 0,
+    "m_description": "",
+    "m_gain": 1.0,
+    "m_length_unit": 7,
+    "m_stiffness": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [],
+        "m_signalEvaluationMethod": 3
+    },
+    "m_texture": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [],
+        "m_signalEvaluationMethod": 3
+    },
+    "m_time_unit": 0,
+    "m_version": "5",
+    "m_vibration": {
+        "m_gain": 1.0,
+        "m_loop": 0,
+        "m_maximum": 1.0,
+        "m_melodies": [
+            {
+                "m_gain": 1.0,
+                "m_mute": 0,
+                "m_notes": []
+            },
+            {
+                "m_gain": 1.0,
+                "m_mute": 0,
+                "m_notes": [
+                    {
+                        "m_gain": 1.0,
+                        "m_hapticEffect": {
+                            "m_amplitudeModulation": {
+                                "m_extrapolationStrategy": 0,
+                                "m_keyframes": [
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.0,
+                                        "m_value": 0.0
+                                    },
+                                    {
+                                        "m_time": 0.008330525965379493,
+                                        "m_value": 0.12524461839530332
+                                    },
+                                    {
+                                        "m_time": 0.030691411451398136,
+                                        "m_value": 0.34442270058708413
+                                    },
+                                    {
+                                        "m_time": 0.05151772636484686,
+                                        "m_value": 0.5362035225048924
+                                    },
+                                    {
+                                        "m_time": 0.09908941411451397,
+                                        "m_value": 0.6810176125244618
+                                    },
+                                    {
+                                        "m_time": 0.131753844873502,
+                                        "m_value": 0.7377690802348337
+                                    },
+                                    {
+                                        "m_time": 0.1762563914780293,
+                                        "m_value": 0.7495107632093934
+                                    },
+                                    {
+                                        "m_time": 0.2273356691078562,
+                                        "m_value": 0.7025440313111546
+                                    },
+                                    {
+                                        "m_time": 0.263726914114514,
+                                        "m_value": 0.6066536203522506
+                                    },
+                                    {
+                                        "m_time": 0.2944183255659121,
+                                        "m_value": 0.4833659491193738
+                                    },
+                                    {
+                                        "m_time": 0.3242328395472703,
+                                        "m_value": 0.18786692759295498
+                                    },
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.329275,
+                                        "m_value": 0.0
+                                    }
+                                ]
+                            },
+                            "m_frequencyModulation": {
+                                "m_extrapolationStrategy": 0,
+                                "m_keyframes": [
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.0,
+                                        "m_value": 30.0
+                                    },
+                                    {
+                                        "m_time": 0.008330525965379493,
+                                        "m_value": 34.34442270058709
+                                    },
+                                    {
+                                        "m_time": 0.023457007323568573,
+                                        "m_value": 37.74951076320939
+                                    },
+                                    {
+                                        "m_time": 0.050202380159786945,
+                                        "m_value": 41.78082191780822
+                                    },
+                                    {
+                                        "m_time": 0.0806745672436751,
+                                        "m_value": 44.55968688845401
+                                    },
+                                    {
+                                        "m_time": 0.12145029960053262,
+                                        "m_value": 45.85127201565558
+                                    },
+                                    {
+                                        "m_time": 0.1626644806924101,
+                                        "m_value": 46.59491193737769
+                                    },
+                                    {
+                                        "m_time": 0.19839805259653795,
+                                        "m_value": 46.39921722113503
+                                    },
+                                    {
+                                        "m_time": 0.2400506824234354,
+                                        "m_value": 45.420743639921724
+                                    },
+                                    {
+                                        "m_time": 0.2755650299600533,
+                                        "m_value": 43.62035225048923
+                                    },
+                                    {
+                                        "m_time": 0.29967971038615177,
+                                        "m_value": 41.31115459882584
+                                    },
+                                    {
+                                        "m_time": 0.3251097370173102,
+                                        "m_value": 36.34050880626223
+                                    },
+                                    {
+                                        "m_inSlope": 0.0,
+                                        "m_outSlope": 0.0,
+                                        "m_time": 0.329275,
+                                        "m_value": 30.0
+                                    }
+                                ]
+                            }
+                        },
+                        "m_length": 0.329275,
+                        "m_priority": 1,
+                        "m_startingPoint": 0.0
+                    }
+                ]
+            }
+        ],
+        "m_signalEvaluationMethod": 3
+    }
+}
